@@ -15,9 +15,11 @@
 ### 1. Présentation du Logiciel Nmap
 
 Nmap est un outil qui permet de faire une reconnaissance du réseau et des audits de sécurité. Sorti en 1997, il est l’un des outils de cybersécurité les plus basiques et les plus utilisés aujourd’hui. Depuis ses débuts en tant que scanner de port avancé, il a évolué en un outil multifonctionnel, avec une panoplie de cas d’usage pour découvrir des mots de passe faibles, scanner des adresses IPv6, effectuer la géolocalisation d’adresses IP, détecter des vulnérabilités et plus encore.
-Cet outil open source aide les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs système et autres personnels informatiques à analyser les hôtes, les réseaux, les applications, les ordinateurs centraux, les environnements Unix et Windows, les systèmes de contrôle et d’acquisition de données et les systèmes de contrôle industriel.
-*source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
 
+Cet outil open source aide les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs système et autres personnels informatiques à analyser les hôtes, les réseaux, les applications, les ordinateurs centraux, les environnements Unix et Windows, les systèmes de contrôle et d’acquisition de données et les systèmes de contrôle industriel.
+
+*source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
+---
 ### 2. Utilisation de base : comment utiliser les fonctionnalités clés
 
 présentez le projet ici:
