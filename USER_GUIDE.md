@@ -37,13 +37,23 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 > nmap `[adresse ip cible]`
 
+* Scan des ports d'un sous réseau
+
+> `nmap [adresse ip cible]/24`
+
 * Scan des 100 ports les plus utilisés de l'ip cible
 
-> nmap -F `[adresse ip cible]`
+> `nmap -F [adresse ip cible]`
 
 * Scan de tous les ports les plus utilisés de l'ip cible
 
-> nmap -P- `[adresse ip cible]`
+> `nmap -P- [adresse ip cible]`
+
+* Scan d'un seul port
+
+> `nmap -P {port} [adresse ip cible]`
+
+
 
 #### - Interpréter le résultat (exemple):
 
