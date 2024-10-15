@@ -22,7 +22,7 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 ---
 ### 2. Utilisation basique (Ubuntu)
 
-#### - Accés aide et MAnuel:
+#### - Accés aide et Manuel:
   * Manuel d'utilisation:
     
 >    ` man nmap `
