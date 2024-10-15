@@ -32,12 +32,18 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 #### - Les commandes simple (sans `sudo`):
 
-  * nmap `[adresse ip cible]`
-    => Scan des 1000 ports les plus utilisés de l'ip cible
 
-  * b
-  * c
-  * d
+##### * Scan des 1000 ports les plus utilisés de l'ip cible
+
+nmap `[adresse ip cible]`
+
+##### * Scan des 100 ports les plus utilisés de l'ip cible
+
+nmap -F `[adresse ip cible]`
+
+##### * Scan de tous les ports les plus utilisés de l'ip cible
+
+nmap -P- `[adresse ip cible]`
 
 #### - Interpréter le résultat (exemple):
 
