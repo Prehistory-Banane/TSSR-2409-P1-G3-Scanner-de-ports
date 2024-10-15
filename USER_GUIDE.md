@@ -20,9 +20,13 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 * source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
 ---
-### 2. Utilisation de base : comment utiliser les fonctionnalités clés
+### 2. Utilisation basique (Ubuntu)
 
-présentez le projet ici:
+- Les commandes de bases:
+  * Manuel d'utilisation:
+    ` man nmap `
+  * Aide pour les options:
+    `nmap --help`
 
 *
 *
