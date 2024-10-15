@@ -4,9 +4,9 @@
 
 ### 1. Présentation du Logiciel Nmap
 
-### 2. Utilisation de base : comment utiliser les fonctionnalités clés
+### 2. Utilisation basique (Ubuntu)
 
-### 3. Utilisation avancée : comment utiliser au mieux les options
+### 3. Utilisation avancée 
     
 ### 4. FAQ : solutions aux problèmes connus et communs liés à l’installation et à la configuration
     
@@ -60,7 +60,7 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 ---
 
-### 3.  Utilisation avancée : comment utiliser au mieux les options
+### 3.  Utilisation avancée
 
 intro ici:
 
