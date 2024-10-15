@@ -22,15 +22,20 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 ---
 ### 2. Utilisation basique (Ubuntu)
 
-- Les commandes de bases:
+#### - Accés aide et MAnuel:
   * Manuel d'utilisation:
-    ` man nmap `
+    
+>    ` man nmap `
   * Aide pour les options:
-    `nmap --help`
+    
+>   `nmap --help`
 
-*
-*
-*
+#### - Les commandes de bases:
+
+  * a
+  * b
+  * c
+  * d
 ---
 
 ### 3.  Utilisation avancée : comment utiliser au mieux les options
