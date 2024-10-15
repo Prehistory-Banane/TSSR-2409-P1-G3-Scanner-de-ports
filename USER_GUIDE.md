@@ -18,7 +18,7 @@ Nmap est un outil qui permet de faire une reconnaissance du réseau et des audit
 
 Cet outil open source aide les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs système et autres personnels informatiques à analyser les hôtes, les réseaux, les applications, les ordinateurs centraux, les environnements Unix et Windows, les systèmes de contrôle et d’acquisition de données et les systèmes de contrôle industriel.
 
-*source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
+* source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
 ---
 ### 2. Utilisation de base : comment utiliser les fonctionnalités clés
 
