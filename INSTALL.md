@@ -131,10 +131,10 @@ intro ici:
 </picture>\
 \
 \
-**_(On peut remplacer les étapes 1 à 6 en tapant `firewall.cpl` dans la barre de recherche afin d'arriver directement à l'étape 7)_**\
+**_(On peut remplacer les étapes 1 à 6 en tapant_ `firewall.cpl` _dans la barre de recherche afin d'arriver directement à l'étape 7)_**\
 \
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%208.png" width="500">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%208.png" width="700">
 </picture>\
 \
 \
