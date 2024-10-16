@@ -34,7 +34,7 @@ En tant qu’outil open source, Nmap est un atout précieux pour les professionn
     
 >   `nmap --help`
 
-#### - Les commandes simple:
+#### - Commandes de base:
 
 
 * Scan des 1000 ports les plus utilisés de l'ip cible
@@ -61,6 +61,7 @@ En tant qu’outil open source, Nmap est un atout précieux pour les professionn
 
 ### 3.  Utilisation avancée: certaines commandes peuvent nécessité d'utiliser `sudo`
 
+Nmap offre également la possibilité d'obtenir des informations approfondies sur les dispositifs connectés. Ci-dessous, vous trouverez quelques exemples de commandes qui permettent de réaliser une analyse plus pointue d'un hôte
 
 * Scan de Détection d'OS: tente d'identifier l'OS de l'hôte
   
