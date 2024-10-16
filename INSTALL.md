@@ -88,12 +88,16 @@ intro ici:
 
 * Résoudre les problèmes de ping depuis un client Linux vers un serveur Windows Server
     - Situation initiale :
-        - Deux machines fonctionnelles, un serveur et un client
-	    - Nmap installé sur le client
-	    - Les adresses IP fixes validées
+        - Deux machines fonctionnelles, un serveur Windows Server 2022 et un client Linux Ubuntu connectées sur un même réseau local
+		- Les adresses IP fixes validées : `172.16.10.10` pour le Serveur et ``172.16.10.20` pour le Client
+  	- Le serveur Windows parvient à ping le client Ubuntu
+  	- Le client Ubuntu ne parvient **_PAS_** à ping le serveur Windows
       
-    - Résolution du problème
+    - Résolution du problème  
 
+**Situation de départ : le client Ubuntu ne parvient pas ping le serveur Windows**
+
+![Image d'un terminal Ubuntu affichant un échec de ping](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%2010.png)
  
 **1/ Ouvrir le menu Démarrer du Serveru Windows**\
 **2/ Cliquer sur l'engrenage "Settings" ou "Paramètres"**\
@@ -153,12 +157,10 @@ intro ici:
 </picture>\
 \
 \
+**10/ Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronnée de succès.**
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%209.png" width="700">
+</picture>\
 
 
-.  
-    - Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronné de succès.
-
-
-*
-*
 
