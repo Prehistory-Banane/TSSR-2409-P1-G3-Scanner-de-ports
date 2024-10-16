@@ -61,7 +61,6 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 ### 3.  Utilisation avancée: certaines commandes peuvent nécessité d'utiliser `sudo`
 
-intro ici:
 
 * Scan de Détection d'OS: tente d'identifier l'OS de l'hôte
   
@@ -99,8 +98,8 @@ intro ici:
 
 * Sources:
   
-  * Définition: (https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap)
-  * Site propriétaire: (https://nmap.org/)
+  * Définition: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
+  * Site propriétaire: https://nmap.org/
 
 * Avertissements:
 
