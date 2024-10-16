@@ -16,9 +16,9 @@
 
 ### 1. Présentation du Logiciel Nmap
 
-Nmap est un outil qui permet de faire une reconnaissance du réseau et des audits de sécurité. Sorti en 1997, il est l’un des outils de cybersécurité les plus basiques et les plus utilisés aujourd’hui. Depuis ses débuts en tant que scanner de port avancé, il a évolué en un outil multifonctionnel, avec une panoplie de cas d’usage pour découvrir des mots de passe faibles, scanner des adresses IPv6, effectuer la géolocalisation d’adresses IP, détecter des vulnérabilités et plus encore.
+Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
-Cet outil open source aide les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs système et autres personnels informatiques à analyser les hôtes, les réseaux, les applications, les ordinateurs centraux, les environnements Unix et Windows, les systèmes de contrôle et d’acquisition de données et les systèmes de contrôle industriel.
+En tant qu’outil open source, Nmap est un atout précieux pour les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs systèmes et d'autres spécialistes de l'informatique. Il permet d'analyser divers environnements, y compris des hôtes, des réseaux, des applications, des ordinateurs centraux, des systèmes Unix et Windows, ainsi que des systèmes de contrôle et d’acquisition de données, et des systèmes de contrôle industriel.
 
 * source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
   
@@ -84,13 +84,14 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 > ![capture cmd basique](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8a152d6a65d29c57d7f1cd25c362bfda508c19d1/capture/Capture%20d'%C3%A9cran%202024-10-16%20123035.png)
 
-- **Ligne 1**: Sur la ligne 1 nous voyons que l'utilisateur wilder depuis le client CLILIN01 lance une commande `nmap` vers un serveur ayant comme adresse ip `[172.16.10.10]`;
-- **Ligne 2**: La ligne 2 nous annonce le lancement du logiciel nmap en précisant l'heure et la date;
-- **Ligne 3**: Ici on nous annonce que l'on va recevoir un scan report des ports de l'adresse ip scanné;
-- **Ligne 4**: Nous avons ici l'information concernant le délais de réponse du serveur (latence);
-- **Ligne 5**: Cette ligne nous indique combien de ports sont fermés
-- **Ligne 6 à 10**: Ici nous avons en détails qu'elle port sont ouvert et le service lié à chaque port ouvert;
-- **Ligne 12**: Et enfin cette ligne nous indique que l'hôte a bien été scanné en 5.03 seconds.
+- **Ligne 1** : Sur la ligne 1, nous voyons que l'utilisateur "wilder", depuis le client CLILIN01, lance une commande `nmap` vers un serveur ayant pour adresse IP `[172.16.10.10]`.
+- **Ligne 2** : La ligne 2 indique le lancement du logiciel nmap, en précisant l'heure et la date.
+- **Ligne 3** : Ici, il est annoncé que nous allons recevoir un rapport de scan des ports de l'adresse IP scannée.
+- **Ligne 4** : Cette ligne fournit des informations concernant le délai de réponse du serveur (latence).
+- **Ligne 5** : Cette ligne indique le nombre de ports fermés.
+- **Lignes 6 à 10** : Ici, nous avons le détail des ports ouverts et des services associés à chacun d'eux.
+- **Ligne 12** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,03 secondes.
+
   
 ---
 
@@ -103,9 +104,9 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 * Avertissements:
 
-  Nous avons énuméré quelques commandes utiles à notre projet, si vous souhaitez en savoir davantage, vous pour consulter le [site](https://nmap.org/) de l'éditeur.
+Nous avons répertorié quelques commandes utiles pour notre projet. Si vous souhaitez en savoir plus, nous vous invitons à consulter le site de l'éditeur.
 
-  Nous déclinons toute responsabilité en cas de mauvaise utilisation de ses commandes. Ce projet a été effectué dans un cadre de formation et n'a pas pour vocation à se substitué aux consignes de l'éditeur.
+Nous déclinons toute responsabilité en cas de mauvaise utilisation de ces commandes. Ce projet a été réalisé dans le cadre d'une formation et n'a pas pour vocation de se substituer aux consignes de l'éditeur.
 
 
 
