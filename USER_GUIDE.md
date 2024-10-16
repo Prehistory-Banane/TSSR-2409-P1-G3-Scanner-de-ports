@@ -10,7 +10,7 @@
     
 ### 4. [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--exemple-et-interpr%C3%A9tation-du-r%C3%A9sultat)
 
-### 5.  [FAQ : solutions aux problèmes connus et communs liés à l’utilisation](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--faq--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-lutilisation-1)
+### 5.  [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--faq--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-lutilisation-1)
     
 ---
 
@@ -95,10 +95,18 @@ intro ici:
   
 ---
 
-### 5.  FAQ : solutions aux problèmes connus et communs liés à l’utilisation
+### 5.  Sources et avertissements
 
-ici
+* Sources:
+  
+  * Définition: (https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap)
+  * Site propriétaire: (https://nmap.org/)
 
-*
-*
-*
+* Avertissements:
+
+  Nous avons énuméré quelques commandes utiles à notre projet, si vous souhaitez en savoir davantage, vous pour consulter le [site](https://nmap.org/) de l'éditeur.
+
+  Nous déclinons toute responsabilité en cas de mauvaise utilisation de ses commandes. Ce projet a été effectué dans un cadre de formation et n'a pas pour vocation à se substitué aux consignes de l'éditeur.
+
+
+
