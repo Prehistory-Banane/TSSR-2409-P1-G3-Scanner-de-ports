@@ -2,7 +2,7 @@
 
 ## **SOMMAIRE**
 
-### 1. [Prérequis techniques]([https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/edit/main/INSTALL.md#1-pr%C3%A9requis-techniques-1](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#1-pr%C3%A9requis-techniques-1))
+### 1. [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#1-pr%C3%A9requis-techniques-1)
 
 ### 2. [Étapes d'installation et de conf. : instruction étape par étape](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#2--%C3%A9tapes-dinstallation-et-de-conf--instruction-%C3%A9tape-par-%C3%A9tape)
     
