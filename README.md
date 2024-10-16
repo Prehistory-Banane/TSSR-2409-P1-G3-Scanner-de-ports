@@ -19,11 +19,12 @@
 ---
 ### 1. Présentation du projet et des objectifs finaux
 
-présentez le projet ici:
-
-*
-*
-*
+> ## trouver
+failles de sécurité d'un serveur  
+> ## comment ?  
+logiciel nmap, méthode scan de ports
+> ## pourquoi ?
+corriger ces failles, but d'amélioration de la qualité
 ---
 
 ### 2.  Introduction: mise en contexte
