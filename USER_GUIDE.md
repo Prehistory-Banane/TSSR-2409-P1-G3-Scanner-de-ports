@@ -26,6 +26,8 @@ En tant qu’outil open source, Nmap est un atout précieux pour les professionn
 
 ### 2. Utilisation basique (Ubuntu)
 
+Ces commandes fondamentales vous permettront de réaliser des scans initiaux, d'identifier les ports ouverts et de découvrir les services qui s'exécutent sur eux. Vous trouverez également les commandes donnant accés au manuel et à l'aide de Nmap.
+
 #### - Accés aide et Manuel:
   * Manuel d'utilisation:
     
@@ -35,7 +37,6 @@ En tant qu’outil open source, Nmap est un atout précieux pour les professionn
 >   `nmap --help`
 
 #### - Commandes de base:
-
 
 * Scan des 1000 ports les plus utilisés de l'ip cible
 
@@ -93,7 +94,6 @@ Nmap offre également la possibilité d'obtenir des informations approfondies su
 - **Lignes 6 à 10** : Ici, nous avons le détail des ports ouverts et des services associés à chacun d'eux.
 - **Ligne 12** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,03 secondes.
 
-  
 ---
 
 ### 5.  Sources et avertissements
