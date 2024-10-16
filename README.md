@@ -4,7 +4,7 @@
 
 ## **SOMMAIRE**
 
-### 1. Présentation du projet et des objectifs finaux
+### 1. ![Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/edit/main/README.md#1-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
 
 ### 2. Introduction: mise en contexte
     
