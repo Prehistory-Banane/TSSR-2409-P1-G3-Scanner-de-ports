@@ -51,13 +51,11 @@ Quant à ses tâches, il lui ont été confiés l'installation et le paramétrag
 
 > ### Deuxième sprint :
 * **Lionel** : Sur ce deuxième sprint, Lionel a remplacé Souhail pour le rôle de *Product Owner*.  
-Il lui a été attribuée comme tâche la finalisation de la rédaction du livrable "USER_GUIDE.md", ce qui permettra à n'importe quel utilisateur n'ayant jamais manipulé Nmap d'avoir une documentation complète sur son utilisation.
+Il lui a été attribuée comme tâche la finalisation de la rédaction du livrable "USER_GUIDE.md", ce qui permettra à n'importe quel utilisateur n'ayant jamais manipulé Nmap d'avoir une documentation complète sur son utilisation.  
 
-* **Elsa** : Elsa a pris le rôle de Scrum Master à la place de Yohann sur ce deuxième sprint.  
+* **Yohann** : La tâche affectée à Yohann était la rédaction du livrable "INSTALL.md", documentant les étapes à suivre pour l'installation du logiciel Nmap.  
 
-* **Yohann** : La tâche affectée à Yohann était la rédaction du livrable "INSTALL.md", documentant les étapes à suivre pour l'installation du logiciel Nmap.
-
-* **Souhail** : La rédaction du livrable "README.md" a été confiée à Souhail pour ce deuxième sprint.
+* **Elsa et Souhail** : La rédaction du livrable "README.md" a été confiée à Elsa et Souhail pour ce deuxième sprint.
 
 
 --- 
