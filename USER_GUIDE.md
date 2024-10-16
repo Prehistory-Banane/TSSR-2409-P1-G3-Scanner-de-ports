@@ -56,7 +56,8 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 
 #### - Interpréter le résultat (exemple):
-
+(capture/Capture d'écran 2024-10-16 123035.png)
+=> a definir
 
 ---
 
