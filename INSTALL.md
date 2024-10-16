@@ -86,9 +86,31 @@ intro ici:
 
 ### 3.  FAQ : solutions aux problèmes connus et communs liés à l’installation et à la configuration
 
-ici
+* Résoudre les problèmes de ping depuis un client Linux vers un serveur Windows Server
+    - Situation initiale :
+        - Deux machines fonctionnelles, un serveur et un client
+	    - Nmap installé sur le client
+	    - Les adresses IP fixes validées
+      
+    - Résolution du problème
 
-*
+|    Méthode   |     Astuce       |  
+| :------------ |:-------------:|    
+| 1/ Ouvrir le menu Démarrer du Serveru Windows     |     On peut remplacer   |    
+| 2/ Cliquer sur l'engrenage "Settings" ou "Paramètres"     |     les étapes 1 à 6    |    
+| 3/ Cliquer sur "Update & Security" ou "Mise à jour et sécurité" |    en tapant :  `firewall.cpl`    |    
+| 4/ Cliquer sur l'Onglet "Windows Security"	ou "Sécurité Windows" |     puis en appuyant sur Entrée   |    
+| 5/ Cliquer sur "Firewall & network protection" ou "Pare-feu et protection réseau" |    dans la   |    
+| 6/ Cliquer sur "Advanced Settings" ou Paramètres avancés |   Recherche Windows    |    
+| 7/ Dans le volet de gauche, cliquer sur "Inbounds Rules" ou "Règles de trafic entrant" |        |
+| 8/ Faites défiler la liste jusqu'à voir la ligne suivante : |       |
+| 9/ *File and Printer Sharing (Echo Request - ICMPv4-In)* |       |
+| 10/ Faites un clic droit sur cette ligne et cliquez sur "Enable Rule" ou "Activer la règle" |       |
+
+.  
+    - Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronné de succès.
+
+
 *
 *
 
