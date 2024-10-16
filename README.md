@@ -21,7 +21,7 @@
 
 L'objectif de ce projet est de trouver les failles de sécurité d'un serveur en utilisant la métohde de scan de ports.  
 Pour mener à bien ce projet, nous aurons recours au logiciel Nmap, qui va nous permettre de scanner les ports d'un serveur déterminé.  
-Une fois ces failles repérées via le logiciel Nmap, il sera nécessaire de prendre les mesures nécessaires afin de les corriger, dans un soucis de sécurité.
+Une fois ces failles repérées via le logiciel Nmap, il sera primordial de prendre les mesures nécessaires afin de les corriger, dans un soucis de sécurité.
 
 ---
 
