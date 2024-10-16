@@ -94,18 +94,63 @@ intro ici:
       
     - Résolution du problème
 
-|    Méthode   |     Astuce       |  
-| :------------ |:-------------:|    
-| 1/ Ouvrir le menu Démarrer du Serveru Windows     |     On peut remplacer   |    
-| 2/ Cliquer sur l'engrenage "Settings" ou "Paramètres"     |     les étapes 1 à 6    |    
-| 3/ Cliquer sur "Update & Security" ou "Mise à jour et sécurité" |    en tapant :  `firewall.cpl`    |    
-| 4/ Cliquer sur l'Onglet "Windows Security"	ou "Sécurité Windows" |     puis en appuyant sur Entrée   |    
-| 5/ Cliquer sur "Firewall & network protection" ou "Pare-feu et protection réseau" |    dans la   |    
-| 6/ Cliquer sur "Advanced Settings" ou Paramètres avancés |   Recherche Windows    |    
-| 7/ Dans le volet de gauche, cliquer sur "Inbounds Rules" ou "Règles de trafic entrant" |        |
-| 8/ Faites défiler la liste jusqu'à voir la ligne suivante : |       |
-| 9/ *File and Printer Sharing (Echo Request - ICMPv4-In)* |       |
-| 10/ Faites un clic droit sur cette ligne et cliquez sur "Enable Rule" ou "Activer la règle" |       |
+ 
+**1/ Ouvrir le menu Démarrer du Serveru Windows**\
+**2/ Cliquer sur l'engrenage "Settings" ou "Paramètres"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%201.png" width="700">
+</picture>\
+\
+\
+**3/ Cliquer sur "Update & Security" ou "Mise à jour et sécurité"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%202.png" width="700">
+</picture>\
+\
+\
+**4/ Cliquer sur l'Onglet "Windows Security" ou "Sécurité Windows"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%203.png" width="700">
+</picture>\
+\
+\
+**5/ Cliquer sur "Firewall & network protection" ou "Pare-feu et protection réseau"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%204.png" width="700">
+</picture>\
+\
+\
+**6/ Cliquer sur "Advanced Settings" ou "Paramètres avancés"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%205.png" width="700">
+</picture>\
+\
+\
+**7/ Dans le volet de gauche, cliquer sur "Inbounds Rules" ou "Règles de trafic entrant"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%206.png" width="700">
+</picture>\
+\
+\
+**8/ Faites défiler la liste jusqu'à voir la ligne suivante : *File and Printer Sharing (Echo Request - ICMPv4-In)**\
+**9/ Faites un clic droit sur cette ligne et cliquez sur "Enable Rule" ou "Activer la règle"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%207.png" width="700">
+</picture>\
+\
+\
+TEST\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%208.png" width="700">
+</picture>
 
 .  
     - Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronné de succès.
