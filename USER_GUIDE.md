@@ -56,7 +56,7 @@ Cet outil open source aide les professionnels de la sécurité, les équipes de 
 
 
 #### - Interpréter le résultat (exemple):
-![capture cmd basique](capture/Capture d'écran 2024-10-16 123035.png)
+![capture cmd basique](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8a152d6a65d29c57d7f1cd25c362bfda508c19d1/capture/Capture%20d'%C3%A9cran%202024-10-16%20123035.png))
 => a definir
 
 ---
