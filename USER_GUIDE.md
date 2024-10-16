@@ -2,11 +2,11 @@
 
 ## **SOMMAIRE**
 
-### 1. Présentation du Logiciel Nmap
+### 1. [Présentation du Logiciel Nmap](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#1-pr%C3%A9sentation-du-logiciel-nmap-1)
 
-### 2. Utilisation basique (Ubuntu)
+### 2. [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#2-utilisation-basique-ubuntu-1)
 
-### 3. Utilisation avancée 
+### 3. [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#3--utilisation-avanc%C3%A9e)
     
 ### 4. FAQ : solutions aux problèmes connus et communs liés à l’installation et à la configuration
     
