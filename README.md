@@ -6,15 +6,15 @@
 
 ### 1. [Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#1-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
 
-### 2. Introduction: mise en contexte
+### 2. [Introduction: mise en contexte](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#2--introduction-mise-en-contexte)
     
-### 3. Membres du groupe et rôle (s1 et s2)
+### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
 ### 4. Difficultés techniques rencontrés
     
 ### 5. Solutions trouvées
     
-### 6. Améliorations possibles
+### 6. [Améliorations possibles](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-am%C3%A9liorations-possibles)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
