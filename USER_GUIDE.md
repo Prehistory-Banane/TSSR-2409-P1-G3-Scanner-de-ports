@@ -83,7 +83,7 @@ intro ici:
 
 ### 4.  Exemple et interprétation du résultat
 
-![capture cmd basique](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8a152d6a65d29c57d7f1cd25c362bfda508c19d1/capture/Capture%20d'%C3%A9cran%202024-10-16%20123035.png)
+> ![capture cmd basique](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8a152d6a65d29c57d7f1cd25c362bfda508c19d1/capture/Capture%20d'%C3%A9cran%202024-10-16%20123035.png)
 
 - **Ligne 1**: Sur la ligne 1 nous voyons que l'utilisateur wilder depuis le client CLILIN01 lance une commande `nmap` vers un serveur ayant comme adresse ip `[172.16.10.10]`;
 - **Ligne 2**: La ligne 2 nous annonce le lancement du logiciel nmap en précisant l'heure et la date;
