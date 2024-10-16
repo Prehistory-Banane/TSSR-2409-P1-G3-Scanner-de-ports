@@ -6,11 +6,11 @@
 
 ### 2. [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#2-utilisation-basique-ubuntu-1)
 
-### 3. [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#3--utilisation-avanc%C3%A9e)
+### 3. [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#3--utilisation-avanc%C3%A9e-certaines-commandes-peuvent-n%C3%A9cessit%C3%A9-dutiliser-sudo)
     
-### 4. [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--interpr%C3%A9ter-le-r%C3%A9sultat-exemple)
+### 4. [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--exemple-et-interpr%C3%A9tation-du-r%C3%A9sultat)
 
-### 5.  [FAQ : solutions aux problèmes connus et communs liés à l’utilisation](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--faq--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-lutilisation)
+### 5.  [FAQ : solutions aux problèmes connus et communs liés à l’utilisation](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--faq--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-lutilisation-1)
     
 ---
 
