@@ -14,7 +14,7 @@
     
 ### 5. [Solutions trouvées]
     
-### 6. [Améliorations possibles: NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-am%C3%A9liorations-possibles-nse-1)
+### 6. [6. Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
@@ -80,15 +80,11 @@ ici
 *
 ---
 
-### 6. Améliorations possibles: NSE
+### 6. Nmap c'est quoi
 
-Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scri^ting Engine - NSE). Effectivement NSE llie l'efficacité avec laquelle Nmap traite le réseau avec la souplesse d'un langage léger comme Lua, fournissant ainsi une infinité d'opportunités. Une documentation plus complète du NSE (y compris ses API) peut être obtenue sur https://nmap.org/nse. Le but du NSE est de fournir à Nmap une infrastructure flexible afin d'étendre ses capacités et ainsi offrir à ses utilisateurs une facon simple de créer leurs propres tests personnalisés.Le cadre d'usage du NSE englobe (mais encore une fois n'est pas limité à) :
+Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
-- La détection de version évolué;
-- La détection de Malware;
-- La découverte du réseau et la collecte d'informations,...
-
-Afin de refléter ces différents usages et pour simplifier le choix des scripts à employer, chaque script contient un champ qui l'associe a une ou plusieurs de ces catégories. Pour maintenir le lien entre scripts et catégories un fichier appelé script.db est installé avec les scripts distribués. Ainsi si par exemple vous voulez voir si une machine est infectée par un ver Nmap vous donne un script que vous pouvez facilement utiliser par la commande `nmap --script=malware ip-cible` afin d'analyser les résultats après coup.Les scripts de version sont systématiquement lancés de facon implicite lorsqu'un scan de scripts est invoqué. Le fichier script.db est lui même un script Lua et peut être mis à jour via l'option `--script-updatedb`.
+En tant qu’outil open source, Nmap est un atout précieux pour les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs systèmes et d'autres spécialistes de l'informatique. Il permet d'analyser divers environnements, y compris des hôtes, des réseaux, des applications, des ordinateurs centraux, des systèmes Unix et Windows, ainsi que des systèmes de contrôle et d’acquisition de données, et des systèmes de contrôle industriel.
 
 
 
