@@ -10,9 +10,9 @@
     
 ### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### 4. [Méthode choisie pour la mission](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-difficult%C3%A9s-techniques-rencontr%C3%A9s)
-    
-### 5. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-nmap-cest-quoi)
+### 4. [Nmap c'est quoi]()
+
+### 5. [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-sources-et-avertissements-1)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
@@ -62,16 +62,24 @@ Il lui a été attribuée comme tâche la finalisation de la rédaction du livra
 
 ---
 
-### 4. Méthode choisie pour la mission  
-
-
----
-
-### 5. Nmap c'est quoi
+### 4. Nmap c'est quoi
 
 Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
 En tant qu’outil open source, Nmap est un atout précieux pour les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs systèmes et d'autres spécialistes de l'informatique. Il permet d'analyser divers environnements, y compris des hôtes, des réseaux, des applications, des ordinateurs centraux, des systèmes Unix et Windows, ainsi que des systèmes de contrôle et d’acquisition de données, et des systèmes de contrôle industriel.
 
+---
 
+### 5. Sources et avertissements
 
+***Sources:***
+
+Définition: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
+
+Site propriétaire: https://nmap.org/
+
+***Avertissements:***
+
+Nous avons répertorié quelques commandes utiles pour notre projet. Si vous souhaitez en savoir plus, nous vous invitons à consulter le site de l'éditeur.
+
+Nous déclinons toute responsabilité en cas de mauvaise utilisation de ces commandes. Ce projet a été réalisé dans le cadre d'une formation et n'a pas pour vocation de se substituer aux consignes de l'éditeur.
