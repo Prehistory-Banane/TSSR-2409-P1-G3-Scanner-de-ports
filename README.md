@@ -14,7 +14,7 @@
     
 ### 5. Solutions trouvées
     
-### 6. [Améliorations possibles](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-am%C3%A9liorations-possibles)
+### 6. [Améliorations possibles: NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-am%C3%A9liorations-possibles-nse)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
@@ -80,9 +80,15 @@ ici
 *
 ---
 
-### 6. Améliorations possibles
+### 6. Améliorations possibles: NSE
 
-*
-*
-*
+Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scri^ting Engine - NSE). Effectivement NSE llie l'efficacité avec laquelle Nmap traite le réseau avec la souplesse d'un langage léger comme Lua, fournissant ainsi une infinité d'opportunités. Une documentation plus complète du NSE (y compris ses API) peut être obtenue sur https://nmap.org/nse. Le but du NSE est de fournir à Nmap une infrastructure flexible afin d'étendre ses capacités et ainsi offrir à ses utilisateurs une facon simple de créer leurs propres tests personnalisés.Le cadre d'usage du NSE englobe (mais encore une fois n'est pas limité à) :
+
+- La détection de version évolué;
+- La détection de Malware;
+- La découverte du réseau et la collecte d'informations,...
+
+Afin de refléter ces différents usages et pour simplifier le choix des scripts à employer, chaque script contient un champ qui l'associe a une ou plusieurs de ces catégories. Pour maintenir le lien entre scripts et catégories un fichier appelé script.db est installé avec les scripts distribués. Ainsi si par exemple vous voulez voir si une machine est infectée par un ver Nmap vous donne un script que vous pouvez facilement utiliser par la commande `nmap --script=malware ip-cible` afin d'analyser les résultats après coup.Les scripts de version sont systématiquement lancés de facon implicite lorsqu'un scan de scripts est invoqué. Le fichier script.db est lui même un script Lua et peut être mis à jour via l'option `--script-updatedb`.
+
+
 
