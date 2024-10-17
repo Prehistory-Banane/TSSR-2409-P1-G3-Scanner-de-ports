@@ -10,11 +10,9 @@
     
 ### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### 4. [Difficultés techniques rencontrés]()
+### 4. [Méthode choisie pour la mission]
     
-### 5. [Solutions trouvées]
-    
-### 6. [6. Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
+### 5. [6. Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
@@ -45,18 +43,19 @@ Les tâches qui lui ont été affectées étaient les suivantes : faire des rech
 * **Souhail** : Son rôle pour ce premier sprint a été *Product Owner*. Il était l'intermédiaire entre son équipe et le Product owner, il encourageait l'équipe et étant garant du bon déroulement de ce premier sprint.
 Quant à ses tâches, il lui ont été confiés l'installation et le paramétrage du serveur (modification du nom, du groupe et de l'adresse Ip)
 
-* **Elsa** : Les tâches d'Elsa pour ce premier sprint ont été l'installation d'un client ainsi que son paramétrage (création de la session utilisateur, paramétrage du mot de passe ainsi que de l'adresse Ip)
+* **Elsa** : Pour ce premier sprint, Elsa a été chargée de plusieurs tâches techniques cruciales, parmi lesquelles l'installation complète d'un client sur l'environnement dédié. Cette installation devait être réalisée en respectant les spécifications définies en amont afin d'assurer un fonctionnement optimal. Une fois le client installé, elle a également pris en charge le paramétrage détaillé, qui comprenait notamment la création d'une session utilisateur dédiée, la définition des droits d'accès appropriés, ainsi que la configuration du mot de passe pour garantir la sécurité des accès. En plus de cela, Elsa a été responsable du paramétrage de l'adresse IP, en s'assurant qu'elle soit correctement configurée pour permettre la communication réseau fluide et sécurisée entre le client et le reste de l'infrastructure. L'ensemble de ces tâches nécessitait une attention particulière aux détails pour éviter tout problème potentiel lors de l'utilisation du client
 
-* **Lionel** : Lionel avait comme tâche de rédiger la documentation d'Nmap, d'installer le logiciel sur le client et de procéder à des tests.
+
+* **Lionel** : Lionel avait pour mission de prendre en charge plusieurs tâches importantes dans le cadre du projet, notamment la rédaction complète de la documentation pour Nmap. Cela impliquait non seulement de fournir une description de l'outil, mais aussi d'expliquer son utilisation et ses options de configuration. En parallèle, Lionel devait également installer le logiciel sur l'environnement client, veillant à ce que l'installation se déroule sans encombre, en respectant les exigences techniques spécifiques de la plateforme du client. Une fois l'installation réalisée, il devait ensuite procéder à une série de tests approfondis afin de vérifier que Nmap fonctionnait correctement et répondait aux besoins du client.
 
 > ### Deuxième sprint :
 * **Lionel** : Sur ce deuxième sprint, Lionel a remplacé Souhail pour le rôle de *Product Owner*.  
 Il lui a été attribuée comme tâche la finalisation de la rédaction du livrable "USER_GUIDE.md", ce qui permettra à n'importe quel utilisateur n'ayant jamais manipulé Nmap d'avoir une documentation complète sur son utilisation.  
 
-* **Yohann** : La tâche affectée à Yohann était la rédaction du livrable "INSTALL.md", documentant les étapes à suivre pour l'installation du logiciel Nmap.  
+* **Yohann** : La tâche confiée à Yohann consistait à rédiger le livrable intitulé 'INSTALL.md', qui avait pour objectif de documenter de manière précise et détaillée toutes les étapes à suivre pour l'installation du logiciel Nmap. Cette documentation devait inclure non seulement les instructions de base pour installer Nmap sur différents systèmes d'exploitation, mais également les prérequis nécessaires, les configurations spécifiques à certains environnements, ainsi que les éventuelles étapes de dépannage en cas de difficultés rencontrées lors de l'installation. Yohann devait veiller à ce que ce document soit exhaustif, clair et accessible à la fois pour des utilisateurs novices et expérimentés, afin de garantir une installation fluide et sans erreur pour toute personne souhaitant utiliser cet outil.
 
-* **Elsa et Souhail** : La rédaction du livrable "README.md" a été confiée à Elsa et Souhail pour ce deuxième sprint.
 
+* **Elsa et Souhail** : La responsabilité de la rédaction du document 'README.md' a été attribuée à Elsa et Souhail dans le cadre de ce deuxième sprint. Ils auront pour mission de s'assurer que toutes les informations nécessaires sont incluses dans ce livrable, de manière à garantir une compréhension claire des aspects essentiels du projet pour l'ensemble des membres de l'équipe ainsi que pour les parties prenantes externes. Concernant le rôle de Scrum Master sur ce deuxième sprint, c'est Elsa qui l'a occupé.
 
 --- 
 
