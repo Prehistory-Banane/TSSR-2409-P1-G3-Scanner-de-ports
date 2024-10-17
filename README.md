@@ -10,7 +10,7 @@
     
 ### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### 4. [Méthode choisie pour la mission](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-difficult%C3%A9s-techniques-rencontr%C3%A9s)
+### 4. [Méthode choisie pour la mission]
     
 ### 5. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-nmap-cest-quoi)
 
@@ -59,6 +59,11 @@ Il lui a été attribuée comme tâche la finalisation de la rédaction du livra
 
 
 * **Elsa et Souhail** : La responsabilité de la rédaction du document 'README.md' a été attribuée à Elsa et Souhail dans le cadre de ce deuxième sprint. Ils auront pour mission de s'assurer que toutes les informations nécessaires sont incluses dans ce livrable, de manière à garantir une compréhension claire des aspects essentiels du projet pour l'ensemble des membres de l'équipe ainsi que pour les parties prenantes externes. Concernant le rôle de Scrum Master sur ce deuxième sprint, c'est Elsa qui l'a occupé.
+
+---
+
+### 4. Méthode choisie pour la mission  
+
 
 ---
 
