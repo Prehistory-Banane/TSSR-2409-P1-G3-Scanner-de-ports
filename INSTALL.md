@@ -81,7 +81,7 @@ Vous pourrez trouver [une présentation de ce logiciel](https://github.com/WildC
 Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des systèmes d'exploitation les plus courants.
 
 
-- Installation sur Windows
+### - Installation sur Windows
 
 **1/ Télécharger Nmap sur le site officiel à l'adresse `https://nmap.org/download`**\
 **2/ Lancer l'installation de Nmap**\
@@ -131,7 +131,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 </picture>\
 
 
-- Installation sur Linux
+### - Installation sur Linux
 
 **1/ Ouvrir le terminal**\
 **2/ Écrire la commande `$sudo apt-get install nmap -y` ; appuyer sur Entrée ; rentrer le mot de passe ; appuyer de nouveau sur Entrée**\
@@ -154,7 +154,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 </picture>
 
 
-- Installation sur macOS
+### - Installation sur macOS
 
 **1/ Télécharger Nmap sur le site officiel à l'adresse `https://nmap.org/download`**\
  \
