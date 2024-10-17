@@ -48,7 +48,7 @@ Ces commandes fondamentales vous permettront de réaliser des scans initiaux, d'
 
 ---
 
-### 2.  Utilisation avancée: certaines commandes peuvent nécessité d'utiliser `sudo`
+### 2.  Utilisation avancée: certaines commandes peuvent nécessiter d'utiliser `sudo`
 
 Nmap offre également la possibilité d'obtenir des informations approfondies sur les dispositifs connectés. Ci-dessous, vous trouverez quelques exemples de commandes qui permettent de réaliser une analyse plus pointue d'un hôte
 
