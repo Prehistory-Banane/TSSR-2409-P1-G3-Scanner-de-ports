@@ -98,7 +98,7 @@ Afin de refléter ces différents usages et pour simplifier le choix des scripts
 
 - **Exemple de scan du port de serveur DHCP avec utilisation d'un NSE:**
 
-> ![capture commande avec script](a venir)
+> ![capture commande avec script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8e8bda68cd305d254ca48e75d36ac4dda22c7865/capture/scan%20avec%20script.png)
   
 ---
 
