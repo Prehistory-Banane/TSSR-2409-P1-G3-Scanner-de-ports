@@ -76,11 +76,16 @@ Pour pouvoir envisager le scan de port, il est nécessaire de remplir certaines 
 
 ### 2.  Étapes d'installation et de conf. : instruction étape par étape
 
-intro ici:
+Parmi toutes les solutions existantes pour scanner des ports nous allons nous concentrer sur le logiciel NMap, qui est à la fois accessible, fiable et efficace.
+Vous pourrez trouver [une présentation de ce logiciel](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#1-pr%C3%A9sentation-du-logiciel-nmap-1) dans le document README.md.
+Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des systèmes d'exploitation les plus courants.
 
-*
-*
-*
+
+- Installation sur Linux Ubuntu
+	- Ouvrir le terminal
+ 	- écrire la commande suivante `$sudo apt-get install nmap -y` et valider
+- Installation sur Windows
+- Installation sur macOS
 
 ---
 
