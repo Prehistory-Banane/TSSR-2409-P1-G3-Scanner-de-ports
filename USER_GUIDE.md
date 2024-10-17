@@ -10,8 +10,6 @@
 
 ### 4.  [Scan personnalisé avec NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--scan-avanc%C3%A9-avec-nse)
 
-### 5.  [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--sources-et-avertissements-1)
-    
 ---
 
 ### 1. Utilisation basique (Ubuntu)
@@ -101,19 +99,5 @@ Afin de refléter ces différents usages et pour simplifier le choix des scripts
 > ![capture commande avec script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8e8bda68cd305d254ca48e75d36ac4dda22c7865/capture/scan%20avec%20script.png)
   
 ---
-
-### 5.  Sources et avertissements
-
-* Sources:
-  
-  * Définition: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
-  * Site propriétaire: https://nmap.org/
-
-* Avertissements:
-
-Nous avons répertorié quelques commandes utiles pour notre projet. Si vous souhaitez en savoir plus, nous vous invitons à consulter le site de l'éditeur.
-
-Nous déclinons toute responsabilité en cas de mauvaise utilisation de ces commandes. Ce projet a été réalisé dans le cadre d'une formation et n'a pas pour vocation de se substituer aux consignes de l'éditeur.
-
 
 
