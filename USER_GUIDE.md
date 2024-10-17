@@ -108,7 +108,7 @@ Pour faciliter le choix des scripts et refléter leurs différents usages, chaqu
 - **Ligne 4** : Cette ligne fournit des informations concernant le délai de réponse du serveur (latence).
 - **Ligne 5 et 6** : Ici nous avons l'état des port scanné et le service lié
 - **Lignes 7** : Nous voyons que nous avons eu une analyse approfondie de la machine hôte avec l'adresse mac et le nom du périphérique réseau
-- **Ligne 8** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,03 secondes.
+- **Ligne 8** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,54 secondes.
 
 
 
