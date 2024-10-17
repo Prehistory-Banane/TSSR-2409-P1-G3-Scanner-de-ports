@@ -82,8 +82,18 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 
 
 - Installation sur Linux Ubuntu
-	- Ouvrir le terminal
- 	- écrire la commande suivante `$sudo apt-get install nmap -y` et valider
+\
+**1/ Ouvrir le terminal**\
+**2/ Écrire la commande suivante `$sudo apt-get install nmap -y` et appuyer sur Entrée**  
+  
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%201.png" width="500">
+</picture>\
+\
+\
+**3/ Écrire la commande suivante `$sudo apt-get install nmap -y` et appuyer sur Entrée**
+
+
 - Installation sur Windows
 - Installation sur macOS
 
