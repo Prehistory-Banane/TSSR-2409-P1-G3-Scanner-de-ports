@@ -10,9 +10,9 @@
     
 ### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### 4. [Méthode choisie pour la mission]
+### 4. [Méthode choisie pour la mission](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-difficult%C3%A9s-techniques-rencontr%C3%A9s)
     
-### 5. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
+### 5. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-nmap-cest-quoi)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
@@ -25,7 +25,6 @@ Une fois ces failles repérées via le logiciel Nmap, il sera primordial de pren
 
 ### 2.  Introduction: mise en contexte
 
-intro ici:
 Nous vous remercions de nous avoir confié la tâche de réaliser une évaluation de sécurité de votre serveur. Dans un environnement où les cybermenaces évoluent constamment, il est impératif de garantir que votre infrastructure informatique est exempte de vulnérabilités potentielles.
 
 Notre mission est de mener une analyse approfondie et rigoureuse de votre serveur afin d'identifier toutes les failles de sécurité présentes. Notre équipe se concentrera sur l'identification des vulnérabilités potentielles, leur évaluation et la proposition de solutions concrètes pour les corriger.
@@ -34,9 +33,6 @@ Nous nous engageons à vous fournir un rapport détaillé, mettant en évidence 
 
 Nous sommes convaincus que cette initiative contribuera de manière significative à la protection de vos actifs numériques et à la sécurité globale de votre entreprise.
 
-*
-*
-*
 ---
 
 ### 3. Membres du groupe et rôle (s1 et s2)  
@@ -64,29 +60,9 @@ Il lui a été attribuée comme tâche la finalisation de la rédaction du livra
 
 * **Elsa et Souhail** : La responsabilité de la rédaction du document 'README.md' a été attribuée à Elsa et Souhail dans le cadre de ce deuxième sprint. Ils auront pour mission de s'assurer que toutes les informations nécessaires sont incluses dans ce livrable, de manière à garantir une compréhension claire des aspects essentiels du projet pour l'ensemble des membres de l'équipe ainsi que pour les parties prenantes externes. Concernant le rôle de Scrum Master sur ce deuxième sprint, c'est Elsa qui l'a occupé.
 
---- 
-
-### 4. Difficultés techniques rencontrés
-
-ici
-
-* probleme de ping entre serveur et client : ! Yohann a déjà rédigé quelque chose; à voir
-* ports fermés  
-*
-*
-
 ---
 
-### 5. Solutions trouvées
-
-ici
-
-*
-*
-*
----
-
-### 6. Nmap c'est quoi
+### 5. Nmap c'est quoi
 
 Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
