@@ -102,8 +102,6 @@ Pour faciliter le choix des scripts et refléter leurs différents usages, chaqu
 
 > ![capture commande avec script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8e8bda68cd305d254ca48e75d36ac4dda22c7865/capture/scan%20avec%20script.png)
   
-Bien sûr, voici une version améliorée de votre texte :
-
 - **Ligne 1** : Sur la première ligne, nous observons que l'utilisateur "wilder", à partir du client CLILIN01, exécute une commande `nmap` en visant un serveur dont l'adresse IP est `[172.16.10.10]`, tout en initiant le script `dhcp-discover`.
 - **Ligne 2** : La seconde ligne indique le démarrage du logiciel `nmap`, en précisant l'heure et la date de l'exécution.
 - **Ligne 3** : Ici, il est annoncé que nous allons recevoir un rapport détaillé sur le scan des ports de l'adresse IP ciblée.
