@@ -19,8 +19,6 @@
 Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
 En tant qu’outil open source, Nmap est un atout précieux pour les professionnels de la sécurité, les équipes de mise en réseau, les administrateurs systèmes et d'autres spécialistes de l'informatique. Il permet d'analyser divers environnements, y compris des hôtes, des réseaux, des applications, des ordinateurs centraux, des systèmes Unix et Windows, ainsi que des systèmes de contrôle et d’acquisition de données, et des systèmes de contrôle industriel.
-
-* source: https://www.lemagit.fr/conseil/Reseau-comment-scanner-les-ports-ouverts-en-utilisant-Nmap
   
 ---
 
