@@ -10,7 +10,7 @@
 
 ### 4.  [Scan personnalisé avec NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--scan-avanc%C3%A9-avec-nse)
 
-### 5.  [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/edit/main/USER_GUIDE.md#5--sources-et-avertissements-1)
+### 5.  [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#5--sources-et-avertissements-1)
     
 ---
 
