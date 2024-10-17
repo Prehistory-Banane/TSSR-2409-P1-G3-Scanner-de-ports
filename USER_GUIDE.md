@@ -86,13 +86,17 @@ Nmap offre également la possibilité d'obtenir des informations approfondies su
 
 ### 4.  Scan avancé avec NSE 
 
-Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scri^ting Engine - NSE). Effectivement NSE llie l'efficacité avec laquelle Nmap traite le réseau avec la souplesse d'un langage léger comme Lua, fournissant ainsi une infinité d'opportunités. Une documentation plus complète du NSE (y compris ses API) peut être obtenue sur https://nmap.org/nse. Le but du NSE est de fournir à Nmap une infrastructure flexible afin d'étendre ses capacités et ainsi offrir à ses utilisateurs une facon simple de créer leurs propres tests personnalisés.Le cadre d'usage du NSE englobe (mais encore une fois n'est pas limité à) :
+Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scripting Engine - NSE). Effectivement, le NSE allie l'efficacité de Nmap dans le traitement du réseau à la souplesse d'un langage léger comme Lua, offrant ainsi une infinité d'opportunités.
+
+Une documentation plus complète du NSE (y compris ses API) est disponible sur le site de Nmap.
+
+Le but du NSE est de fournir à Nmap une infrastructure flexible pour étendre ses capacités et offrir à ses utilisateurs une manière simple de créer leurs propres tests personnalisés. Le cadre d'usage du NSE englobe (mais n'est pas limité à) :
 
 * La détection de version évolué;
 * La détection de Malware;
 * La découverte du réseau et la collecte d'informations,...
 
-Afin de refléter ces différents usages et pour simplifier le choix des scripts à employer, chaque script contient un champ qui l'associe a une ou plusieurs de ces catégories. Pour maintenir le lien entre scripts et catégories un fichier appelé script.db est installé avec les scripts distribués. Ainsi si par exemple vous voulez voir si une machine est infectée par un ver Nmap vous donne un script que vous pouvez facilement utiliser par la commande nmap --script=malware ip-cible afin d'analyser les résultats après coup.Les scripts de version sont systématiquement lancés de facon implicite lorsqu'un scan de scripts est invoqué. Le fichier script.db est lui même un script Lua et peut être mis à jour via l'option --script-updatedb.
+Pour faciliter le choix des scripts et refléter leurs différents usages, chaque script est associé à une ou plusieurs catégories. Pour maintenir cette association, un fichier nommé `script.db` est inclus avec les scripts distribués. Par exemple, si vous souhaitez vérifier si une machine est infectée par un ver, Nmap vous fournit un script que vous pouvez utiliser avec la commande `nmap --script=malware ip-cible` pour analyser les résultats ultérieurement. Les scripts de version sont exécutés automatiquement chaque fois qu'un scan de scripts est lancé. De plus, le fichier `script.db` est lui-même un script Lua et peut être mis à jour avec l'option `--script-updatedb`.
 
 - **Exemple de scan du port de serveur DHCP avec utilisation d'un NSE:**
 
