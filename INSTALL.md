@@ -76,7 +76,7 @@ Pour pouvoir envisager le scan de port, il est nécessaire de remplir certaines 
 
 ### 2.  Étapes d'installation et de conf. : instruction étape par étape
 
-Parmi toutes les solutions existantes pour scanner des ports nous allons nous concentrer sur le logiciel NMap, qui est à la fois accessible, fiable et efficace.
+Parmi toutes les solutions existantes pour scanner des ports nous allons nous concentrer sur le logiciel Nmap, qui est à la fois accessible, fiable et efficace.
 Vous pourrez trouver [une présentation de ce logiciel](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#1-pr%C3%A9sentation-du-logiciel-nmap-1) dans le document README.md.
 Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des systèmes d'exploitation les plus courants.
 
@@ -84,17 +84,84 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 - Installation sur Linux Ubuntu
 \
 **1/ Ouvrir le terminal**\
-**2/ Écrire la commande suivante `$sudo apt-get install nmap -y` et appuyer sur Entrée**  
+**2/ Écrire la commande `$sudo apt-get install nmap -y` ; appuyer sur Entrée ; rentrer le mot de passe ; appuyer de nouveau sur Entrée**
   
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%201.png" width="500">
+</picture>
+
+
+**3/ Laisser l'action se dérouler jusqu'à réapparition de votre prompt**
+
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%202.png" width="500">
+</picture>
+
+
+**4/ Nmap est Installé. Vous pouvez vérifier la version en écrivant la commande `nmap -version`**
+
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%203.png" width="500">
 </picture>\
 \
 \
-**3/ Écrire la commande suivante `$sudo apt-get install nmap -y` et appuyer sur Entrée**
-
-
+\
 - Installation sur Windows
+
+**1/ Télécharger Nmap sur le site officiel à l'adresse `https://nmap.org/download`**\
+**2/ Lancer l'installation de Nmap**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows.png" width="500">
+</picture>\
+\
+\
+**3/ Appuyer sur Next à chaque sans rien toucher aux options, puis cliquer sur Install**
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows%202.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows%203.png" width="500">
+</picture>\
+\
+\
+**4/ L'installateur enchaîne sur l'installation de Npcap, une bibliothèque nécessaire au bon fonctionnement de Nmap**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows%204.png" width="500">
+</picture>\
+\
+\
+**_(On peut remplacer les étapes 1 à 6 en tapant_ `firewall.cpl` _dans la barre de recherche afin d'arriver directement à l'étape 7)_**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%208.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%2011%20V2.png" width="500">  
+</picture>\
+\
+\
+**7/ Dans le volet de gauche, cliquer sur "Inbounds Rules" ou "Règles de trafic entrant"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%206.png" width="500">
+</picture>\
+\
+\
+**8/ Faites défiler la liste jusqu'à voir la ligne suivante : _File and Printer Sharing (Echo Request - ICMPv4-In)_**\
+**9/ Faites un clic droit sur cette ligne et cliquez sur "Enable Rule" ou "Activer la règle"**\
+\
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%207.png" width="500">
+</picture>\
+\
+\
+**10/ Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronnée de succès.**
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%209.png" width="500">
+</picture>\
+  
 - Installation sur macOS
 
 ---
