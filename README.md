@@ -12,7 +12,7 @@
     
 ### 4. [Méthode choisie pour la mission]
     
-### 5. [6. Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
+### 5. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#6-nmap-cest-quoi)
 
 ---
 ### 1. Présentation du projet et des objectifs finaux
