@@ -152,7 +152,7 @@ intro ici:
 </picture>\
 \
 \
-**8/ Faites défiler la liste jusqu'à voir la ligne suivante : *File and Printer Sharing (Echo Request - ICMPv4-In)**\
+**8/ Faites défiler la liste jusqu'à voir la ligne suivante : _File and Printer Sharing (Echo Request - ICMPv4-In)_**\
 **9/ Faites un clic droit sur cette ligne et cliquez sur "Enable Rule" ou "Activer la règle"**\
 \
 <picture>
