@@ -102,14 +102,15 @@ Pour faciliter le choix des scripts et refléter leurs différents usages, chaqu
 
 > ![capture commande avec script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8e8bda68cd305d254ca48e75d36ac4dda22c7865/capture/scan%20avec%20script.png)
   
-- **Ligne 1** : Sur la ligne 1, nous voyons que l'utilisateur "wilder", depuis le client CLILIN01, lance une commande `nmap` vers un serveur ayant pour adresse IP `[172.16.10.10]` en initialisant le script `dhcp-discover`
-- **Ligne 2** : La ligne 2 indique le lancement du logiciel nmap, en précisant l'heure et la date.
-- **Ligne 3** : Ici, il est annoncé que nous allons recevoir un rapport de scan des ports de l'adresse IP scannée.
-- **Ligne 4** : Cette ligne fournit des informations concernant le délai de réponse du serveur (latence).
-- **Ligne 5 et 6** : Ici nous avons l'état des port scanné et le service lié
-- **Lignes 7** : Nous voyons que nous avons eu une analyse approfondie de la machine hôte avec l'adresse mac et le nom du périphérique réseau
-- **Ligne 8** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,54 secondes.
+Bien sûr, voici une version améliorée de votre texte :
 
+- **Ligne 1** : Sur la première ligne, nous observons que l'utilisateur "wilder", à partir du client CLILIN01, exécute une commande `nmap` en visant un serveur dont l'adresse IP est `[172.16.10.10]`, tout en initiant le script `dhcp-discover`.
+- **Ligne 2** : La seconde ligne indique le démarrage du logiciel `nmap`, en précisant l'heure et la date de l'exécution.
+- **Ligne 3** : Ici, il est annoncé que nous allons recevoir un rapport détaillé sur le scan des ports de l'adresse IP ciblée.
+- **Ligne 4** : Cette ligne fournit des informations sur le délai de réponse du serveur, également connu sous le nom de latence.
+- **Lignes 5 et 6** : Nous y trouvons l'état des ports scannés, ainsi que les services qui y sont associés.
+- **Ligne 7** : Cette ligne révèle que nous avons effectué une analyse approfondie de la machine hôte, incluant l'adresse MAC et le nom du périphérique réseau.
+- **Ligne 8** : Enfin, cette ligne confirme que le scan de l'hôte a été réalisé en 5,54 secondes.
 
 
 
