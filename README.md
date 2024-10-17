@@ -26,6 +26,13 @@ Une fois ces failles repérées via le logiciel Nmap, il sera primordial de pren
 ### 2.  Introduction: mise en contexte
 
 intro ici:
+Nous vous remercions de nous avoir confié la tâche de réaliser une évaluation de sécurité de votre serveur. Dans un environnement où les cybermenaces évoluent constamment, il est impératif de garantir que votre infrastructure informatique est exempte de vulnérabilités potentielles.
+
+Notre mission est de mener une analyse approfondie et rigoureuse de votre serveur afin d'identifier toutes les failles de sécurité présentes. Notre équipe se concentrera sur l'identification des vulnérabilités potentielles, leur évaluation et la proposition de solutions concrètes pour les corriger.
+
+Nous nous engageons à vous fournir un rapport détaillé, mettant en évidence les vulnérabilités détectées et offrant des recommandations spécifiques pour renforcer la sécurité de votre système. Cette approche proactive vise à protéger vos données sensibles et à assurer la continuité de vos opérations.
+
+Nous sommes convaincus que cette initiative contribuera de manière significative à la protection de vos actifs numériques et à la sécurité globale de votre entreprise.
 
 *
 *
