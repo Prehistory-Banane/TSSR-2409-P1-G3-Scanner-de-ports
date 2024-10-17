@@ -98,6 +98,22 @@ Afin de refléter ces différents usages et pour simplifier le choix des scripts
 
 > ![capture commande avec script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8e8bda68cd305d254ca48e75d36ac4dda22c7865/capture/scan%20avec%20script.png)
   
----
+- **Ligne 1** : Sur la ligne 1, nous voyons que l'utilisateur "wilder", depuis le client CLILIN01, lance une commande `nmap` vers un serveur ayant pour adresse IP `[172.16.10.10]` en initialisant le script `dhcp-discover`
+- **Ligne 2** : La ligne 2 indique le lancement du logiciel nmap, en précisant l'heure et la date.
+- **Ligne 3** : Ici, il est annoncé que nous allons recevoir un rapport de scan des ports de l'adresse IP scannée.
+- **Ligne 4** : Cette ligne fournit des informations concernant le délai de réponse du serveur (latence).
+- **Ligne 5 et 6** : Ici nous avons l'état des port scanné et le service lié
+- **Lignes 7** : Nous voyons que nous avons eu une analyse approfondie de la machine hôte avec l'adresse mac et le nom du périphérique réseau
+- **Ligne 8** : Enfin, cette ligne nous informe que l'hôte a bien été scanné en 5,03 secondes.
+
+
+
+
+
+
+
+
+
+
 
 
