@@ -148,7 +148,8 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 </picture>\
 \
 \
-**4/ Nmap est Installé. Vous pouvez vérifier la version en écrivant la commande `nmap -version`**
+**4/ Nmap est Installé. Vous pouvez vérifier la version en écrivant la commande `nmap -version`**\
+\
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%203.png" width="500">
 </picture>
@@ -201,7 +202,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 
 ![Image d'un terminal Ubuntu affichant un échec de ping](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%2010.png)
  
-**1/ Ouvrir le menu Démarrer du Serveru Windows**\
+**1/ Ouvrir le menu Démarrer du Serveur Windows**\
 **2/ Cliquer sur l'engrenage "Settings" ou "Paramètres"**\
 \
 <picture>
