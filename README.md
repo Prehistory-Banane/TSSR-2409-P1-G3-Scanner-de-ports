@@ -1,5 +1,3 @@
-# TSSR-2409-P1-G3-Scanner-de-ports
-
 # **README**
 
 ## **SOMMAIRE**
