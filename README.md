@@ -2,15 +2,15 @@
 
 ## **SOMMAIRE**
 
-### :one: [Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#1-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
+### :one: [Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#one-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
 
-### :two: [Introduction: mise en contexte](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#2--introduction-mise-en-contexte)
+### :two: [Introduction: mise en contexte](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#two--introduction-mise-en-contexte)
     
-### :three: [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
+### :three: [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#three-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### :four: [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-nmap-cest-quoi-1)
+### :four: [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#four-nmap-cest-quoi-1)
 
-### :five: [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-sources-et-avertissements-1)
+### :five: [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#five-sources-et-avertissements-1)
 
 ---
 ### :one: Présentation du projet et des objectifs finaux
