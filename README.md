@@ -4,18 +4,18 @@
 
 ## **SOMMAIRE**
 
-### 1. [Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#1-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
+### :one: [Présentation du projet et des objectifs finaux](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#1-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
 
-### 2. [Introduction: mise en contexte](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#2--introduction-mise-en-contexte)
+### :two: [Introduction: mise en contexte](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#2--introduction-mise-en-contexte)
     
-### 3. [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
+### :three: [Membres du groupe et rôle (s1 et s2)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#3-membres-du-groupe-et-r%C3%B4le-s1-et-s2-1)
     
-### 4. [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-nmap-cest-quoi-1)
+### :four: [Nmap c'est quoi](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-nmap-cest-quoi-1)
 
-### 5. [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-sources-et-avertissements-1)
+### :five: [Sources et avertissements](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#5-sources-et-avertissements-1)
 
 ---
-### 1. Présentation du projet et des objectifs finaux
+### :one: Présentation du projet et des objectifs finaux
 
 L'objectif de ce projet est de trouver les failles de sécurité d'un serveur en utilisant la métohde de scan de ports.  
 Pour mener à bien ce projet, nous aurons recours au logiciel Nmap, qui va nous permettre de scanner les ports d'un serveur déterminé.  
@@ -23,7 +23,7 @@ Une fois ces failles repérées via le logiciel Nmap, il sera primordial de pren
 
 ---
 
-### 2.  Introduction: mise en contexte
+### :two:  Introduction: mise en contexte
 
 Nous vous remercions de nous avoir confié la tâche de réaliser une évaluation de sécurité de votre serveur. Dans un environnement où les cybermenaces évoluent constamment, il est impératif de garantir que votre infrastructure informatique est exempte de vulnérabilités potentielles.
 
@@ -35,13 +35,13 @@ Nous sommes convaincus que cette initiative contribuera de manière significativ
 
 ---
 
-### 3. Membres du groupe et rôle (s1 et s2)  
+### :three: Membres du groupe et rôle (s1 et s2)  
 
 Notre groupe est composé de 4 personnes : Elsa, Yohann, Lionel et Souhail.  
 Voici les tâches et les rôles qui ont été affectés pour le premier et le deuxième sprint :  
 > ### Premier sprint :
 * **Yohann** : Occupant le rôle de *Scrum Master* sur le premier sprint, le rôle de Yohann a été d'organiser les réunions, de contribuer à la gestion du backlog product et de mener des rétrospectives.
-Les tâches qui lui ont été affectées étaient les suivantes : faire des recherches sur Netcat et Nmap, comparer les deux logiciels afin de choisir lequel serait utilisé pour notre projet, installer Nmap et effectuer les premiers tests du logiciel.
+Les tâches qui lui ont été affectées étaient les suivantes : faire des recherches sur Netcat et Nmap, comparer les deux logiciels afin de choisir lequel serait utilisé pour notre projet, installer Nmap et effectuer les premiers tests du logiciel. Il s'est assuré que personne ne soit perdu et que tout le groupe en soit toujours au même niveau afin de mieux faire face aux défis techniques.
 
 * **Souhail** : Son rôle pour ce premier sprint a été *Product Owner*. Il était l'intermédiaire entre son équipe et le Product owner, il encourageait l'équipe et étant garant du bon déroulement de ce premier sprint.
 Quant à ses tâches, il lui ont été confiés l'installation et le paramétrage du serveur (modification du nom, du groupe et de l'adresse Ip)
@@ -62,7 +62,7 @@ Il lui a été attribuée comme tâche la finalisation de la rédaction du livra
 
 ---
 
-### 4. Nmap c'est quoi
+### :four: Nmap c'est quoi
 
 Nmap est un outil essentiel pour la reconnaissance de réseau et les audits de sécurité. Lancé en 1997, il s’est rapidement imposé comme l’un des outils de cybersécurité les plus fondamentaux et utilisés aujourd'hui. À l'origine conçu comme un scanner de ports avancé, Nmap a évolué pour devenir un outil multifonctionnel, offrant une large gamme d’applications, telles que la détection de mots de passe faibles, le scan d'adresses IPv6, la géolocalisation d'adresses IP et l’identification de vulnérabilités.
 
@@ -70,7 +70,7 @@ En tant qu’outil open source, Nmap est un atout précieux pour les professionn
 
 ---
 
-### 5. Sources et avertissements
+### :five: Sources et avertissements
 
 ***Sources:***
 
