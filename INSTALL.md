@@ -2,15 +2,15 @@
 
 ## **SOMMAIRE**
 
-### :one: 1. [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#1-pr%C3%A9requis-techniques-1)
+### :one: [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#1-pr%C3%A9requis-techniques-1)
 
-### 2. [Étapes d'installation et de conf. : instruction étape par étape](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#2--%C3%A9tapes-dinstallation-et-de-conf--instruction-%C3%A9tape-par-%C3%A9tape)
+### :two: [Étapes d'installation et de conf. : instruction étape par étape](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#2--%C3%A9tapes-dinstallation-et-de-conf--instruction-%C3%A9tape-par-%C3%A9tape)
     
-### 3. [Solutions aux problèmes connus et communs liés à l’installation et à la configuration](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#3--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-linstallation-et-%C3%A0-la-configuration) 
+### :three: [Solutions aux problèmes connus et communs liés à l’installation et à la configuration](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#3--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-linstallation-et-%C3%A0-la-configuration) 
     
 ---
 
-### 1. Prérequis techniques
+### :one: Prérequis techniques
 
 Pour pouvoir envisager le scan de port, il est nécessaire de remplir certaines conditions. Notamment se trouver dans un environnement qui comporte au moins une machine serveur et une machine client, les deux communiquant par le biais d'une connexion à un même réseau.
 
@@ -74,7 +74,7 @@ Pour pouvoir envisager le scan de port, il est nécessaire de remplir certaines 
 
 ---
 
-### 2.  Étapes d'installation et de conf. : instruction étape par étape
+### :two:  Étapes d'installation et de conf. : instruction étape par étape
 
 Parmi toutes les solutions existantes pour scanner des ports nous allons nous concentrer sur le logiciel Nmap, qui est à la fois accessible, fiable et efficace.
 Vous pourrez trouver [une présentation de ce logiciel](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#4-nmap-cest-quoi-1) dans le document README.md.  
@@ -186,7 +186,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 
 ---
 
-### 3.  Solutions aux problèmes connus et communs liés à l’installation et à la configuration
+### :three:  Solutions aux problèmes connus et communs liés à l’installation et à la configuration
 
 * Résoudre les problèmes de ping depuis un client Linux vers un serveur Windows Server
     - Situation initiale :
