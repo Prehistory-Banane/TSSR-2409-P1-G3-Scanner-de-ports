@@ -2,17 +2,17 @@
 
 ## **SOMMAIRE**
 
-### 1. [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#1-utilisation-basique-ubuntu-1)
+### :one: [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#1-utilisation-basique-ubuntu-1)
 
-### 2. [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#2--utilisation-avanc%C3%A9e-certaines-commandes-peuvent-n%C3%A9cessit%C3%A9-dutiliser-sudo)
+### :two: [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#2--utilisation-avanc%C3%A9e-certaines-commandes-peuvent-n%C3%A9cessit%C3%A9-dutiliser-sudo)
     
-### 3. [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#3--exemple-et-interpr%C3%A9tation-du-r%C3%A9sultat)
+### :three: [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#3--exemple-et-interpr%C3%A9tation-du-r%C3%A9sultat)
 
-### 4.  [Scan personnalisé avec NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--scan-avanc%C3%A9-avec-nse)
+### :four:  [Scan personnalisé avec NSE](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#4--scan-avanc%C3%A9-avec-nse)
 
 ---
 
-### 1. Utilisation basique (Ubuntu)
+### :one: Utilisation basique (Ubuntu)
 
 Ces commandes fondamentales vous permettront de réaliser des scans initiaux, d'identifier les ports ouverts et de découvrir les services qui s'exécutent sur eux. Vous trouverez également les commandes donnant accés au manuel et à l'aide de Nmap.
 
@@ -48,7 +48,7 @@ Ces commandes fondamentales vous permettront de réaliser des scans initiaux, d'
 
 ---
 
-### 2.  Utilisation avancée: certaines commandes peuvent nécessiter d'utiliser `sudo`
+### :two:  Utilisation avancée: certaines commandes peuvent nécessiter d'utiliser `sudo`
 
 Nmap offre également la possibilité d'obtenir des informations approfondies sur les dispositifs connectés. Ci-dessous, vous trouverez quelques exemples de commandes qui permettent de réaliser une analyse plus pointue d'un hôte
 
@@ -70,7 +70,7 @@ Nmap offre également la possibilité d'obtenir des informations approfondies su
 
 ---
 
-### 3.  Exemple et interprétation du résultat
+### :three:  Exemple et interprétation du résultat
 
 > ![capture cmd basique](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/8a152d6a65d29c57d7f1cd25c362bfda508c19d1/capture/Capture%20d'%C3%A9cran%202024-10-16%20123035.png)
 
@@ -84,7 +84,7 @@ Nmap offre également la possibilité d'obtenir des informations approfondies su
 
 ---
 
-### 4.  Scan avancé avec NSE 
+### :four:  Scan avancé avec NSE 
 
 Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scripting Engine - NSE). Effectivement, le NSE allie l'efficacité de Nmap dans le traitement du réseau à la souplesse d'un langage léger comme Lua, offrant ainsi une infinité d'opportunités. Nmap dispose d'environ 5000 scripts, consultable en suivant le chemin `/usr/share/nmap/scripts`:
 
