@@ -51,7 +51,7 @@ Quant à ses tâches, il lui ont été confiés l'installation et le paramétrag
 
 > ### Deuxième sprint :
 * **Lionel** : Sur ce deuxième sprint, Lionel a remplacé Souhail pour le rôle de *Product Owner*.  
-Il lui a été attribuée comme tâche la finalisation de la rédaction du livrable "USER_GUIDE.md", ce qui permettra à n'importe quel utilisateur n'ayant jamais manipulé Nmap d'avoir une documentation complète sur son utilisation.  
+Il lui a été attribuée comme tâche la finalisation de la rédaction du livrable "USER_GUIDE.md", ce qui permettra à n'importe quel utilisateur n'ayant jamais manipulé Nmap d'avoir une documentation ciblée sur son utilisation.  
 
 * **Yohann** : La tâche confiée à Yohann consistait à rédiger le livrable intitulé 'INSTALL.md', qui avait pour objectif de documenter de manière précise et détaillée toutes les étapes à suivre pour l'installation du logiciel Nmap. Cette documentation devait inclure non seulement les instructions de base pour installer Nmap sur différents systèmes d'exploitation, mais également les prérequis nécessaires, les configurations spécifiques à certains environnements, ainsi que les éventuelles étapes de dépannage en cas de difficultés rencontrées lors de l'installation. Yohann devait veiller à ce que ce document soit exhaustif, clair et accessible à la fois pour des utilisateurs novices et expérimentés, afin de garantir une installation fluide et sans erreur pour toute personne souhaitant utiliser cet outil.
 
