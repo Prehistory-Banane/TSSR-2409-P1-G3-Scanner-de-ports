@@ -86,7 +86,9 @@ Nmap offre également la possibilité d'obtenir des informations approfondies su
 
 ### 4.  Scan avancé avec NSE 
 
-Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scripting Engine - NSE). Effectivement, le NSE allie l'efficacité de Nmap dans le traitement du réseau à la souplesse d'un langage léger comme Lua, offrant ainsi une infinité d'opportunités.
+Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur de script de Nmap (Nmap Scripting Engine - NSE). Effectivement, le NSE allie l'efficacité de Nmap dans le traitement du réseau à la souplesse d'un langage léger comme Lua, offrant ainsi une infinité d'opportunités. Nmap dispose d'environ 5000 scripts, consultable en suivant le chemin `/usr/share/nmap/scripts:
+
+> ![capture script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/e238f0d65ec4ae3680aec890ae0ff8ef4e5ea9bf/capture/liste%20script.png)
 
 Une documentation plus complète du NSE (y compris ses API) est disponible sur le site de Nmap.
 
