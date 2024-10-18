@@ -192,7 +192,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 * Résoudre les problèmes de ping depuis un client Linux vers un serveur Windows Server
     - Situation initiale :
         - Deux machines fonctionnelles, un serveur Windows Server 2022 et un client Linux Ubuntu connectées sur un même réseau local
-		- Les adresses IP fixes validées : `172.16.10.10` pour le Serveur et ``172.16.10.20` pour le Client
+		- Les adresses IP fixes validées : `172.16.10.10` pour le Serveur et `172.16.10.20` pour le Client
   	- Le serveur Windows parvient à ping le client Ubuntu
   	- Le client Ubuntu ne parvient **_PAS_** à ping le serveur Windows
       
