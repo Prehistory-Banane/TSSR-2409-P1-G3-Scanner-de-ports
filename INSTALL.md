@@ -141,7 +141,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 </picture>\
 \
 \
-**3/ Appuyer sur Next à chaque sans rien toucher aux options, puis cliquer sur Install**\
+**3/ L'installation prend quelques secondes. A la réaparition de votre prompt, elle est terminée**\
 \
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Linux%202.png" width="500">
