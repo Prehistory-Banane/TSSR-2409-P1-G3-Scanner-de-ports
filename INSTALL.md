@@ -40,7 +40,7 @@ Pour pouvoir envisager le scan de port, il est nécessaire de remplir certaines 
         - Dépendance : Les clients dépendent des serveurs pour accéder à des services ou des ressources. Sans serveur, un client ne peut pas obtenir les informations ou les fonctionnalités recherchées.
         - Interface utilisateur : Les clients incluent souvent des interfaces utilisateur (comme des navigateurs web, des logiciels de gestion de fichiers, ou des clients de messagerie) permettant à l'utilisateur d'interagir facilement avec le serveur.
     - Types de clients :
-        - Client léger : Machine qui dépend fortement d'un serveur pour ses opérations (exemple : client RDP ou VDI).
+        - Client léger : Machine qui dépend fortement d'un serveur pour ses opérations (exemple : client RDS ou VDI).
         - Client lourd : Machine qui exécute localement une grande partie de ses traitements, mais s'appuie sur un serveur pour certaines tâches (exemple : un ordinateur avec un logiciel de gestion accédant à une base de données distante).
 
     - Système d'exploitation :  
