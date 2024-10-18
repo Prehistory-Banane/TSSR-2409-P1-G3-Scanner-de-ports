@@ -87,7 +87,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 **2/ Lancer l'installation de Nmap**\
 \
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows.png" width="500">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Install%20Windows.png" width="1000">
 </picture>\
 \
 \
