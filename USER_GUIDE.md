@@ -90,7 +90,6 @@ Il est possible de rendre Nmap plus flexible et efficace en utilisant le moteur 
 
 > ![capture script](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/e238f0d65ec4ae3680aec890ae0ff8ef4e5ea9bf/capture/liste%20script.png)
 
-Une documentation plus complète du NSE (y compris ses API) est disponible sur le site de Nmap.
 
 Le but du NSE est de fournir à Nmap une infrastructure flexible pour étendre ses capacités et offrir à ses utilisateurs une manière simple de créer leurs propres tests personnalisés. Le cadre d'usage du NSE englobe (mais n'est pas limité à) :
 
@@ -98,7 +97,7 @@ Le but du NSE est de fournir à Nmap une infrastructure flexible pour étendre s
 * La détection de Malware;
 * La découverte du réseau et la collecte d'informations,...
 
-Pour faciliter le choix des scripts et refléter leurs différents usages, chaque script est associé à une ou plusieurs catégories. Pour maintenir cette association, un fichier nommé `script.db` est inclus avec les scripts distribués. Par exemple, si vous souhaitez vérifier si une machine est infectée par un ver, Nmap vous fournit un script que vous pouvez utiliser avec la commande `nmap --script=malware ip-cible` pour analyser les résultats ultérieurement. Les scripts de version sont exécutés automatiquement chaque fois qu'un scan de scripts est lancé. De plus, le fichier `script.db` est lui-même un script Lua et peut être mis à jour avec l'option `--script-updatedb`.
+Pour faciliter le choix des scripts et refléter leurs différents usages, chaque script est associé à une ou plusieurs catégories. Pour maintenir cette association, un fichier nommé `script.db` est inclus avec les scripts distribués. Par exemple, si vous souhaitez vérifier si une machine est infectée par un malware, Nmap vous fournit un script que vous pouvez utiliser avec la commande `nmap --script=malware ip-cible` pour analyser les résultats ultérieurement.
 
 - **Exemple de scan du port de serveur DHCP avec utilisation d'un NSE:**
 
@@ -113,7 +112,7 @@ Pour faciliter le choix des scripts et refléter leurs différents usages, chaqu
 - **Ligne 8** : Enfin, cette ligne confirme que le scan de l'hôte a été réalisé en 5,54 secondes.
 
 
-
+Une documentation plus complète du NSE (y compris ses API) est disponible sur le site de [Nmap](https://nmap.org/man/fr/man-nse.html).
 
 
 
