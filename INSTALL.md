@@ -266,7 +266,7 @@ Vous trouverez ci-dessous les méthodes d'installation de NMap sur trois des sys
 **10/ Si on lance maintenant une tentative de Ping depuis le Client Linux vers le Serveur Windows, la tentative est couronnée de succès.**
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/capture/Ping%209.png" width="700">
-</picture>\
+</picture>
 
 
 
